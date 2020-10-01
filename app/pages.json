@@ -1,0 +1,23 @@
+{
+    "links": [
+        "https://www.newegg.com/intel-core-i7-10700k-core-i7-10th-gen/p/N82E16819118123?Description=i7&cm_re=i7-_-19-118-123-_-Product",
+        "https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-10g-gaming/p/N82E16814126453?Description=3080&cm_re=3080-_-14-126-453-_-Product",
+        "https://www.bestbuy.com/site/nvidia-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-graphics-card-titanium-and-black/6429440.p?skuId=6429440",
+        "https://www.bestbuy.com/site/apple-airpods-with-charging-case-latest-model-white/6084400.p?skuId=6084400"
+    ],
+
+    "domains": { 
+        "www.newegg.com" : 
+        {
+            "class_": null,
+            "id_": "landingpage-cart",
+            "value_": "ADD TO CART"
+        },
+        "www.bestbuy.com" : 
+        {
+            "class_": "add-to-cart-button",
+            "id_": null,
+            "value_": "Add to Cart"
+        }
+    }
+}

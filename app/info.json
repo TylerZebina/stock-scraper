@@ -1,0 +1,9 @@
+{
+    "sender_address": "ENTER SENDER ADDRESS",
+    "sender_password": "ENTER SENDER EMAIL",
+    "recipients": [
+        "ADD RECIPIENT EMAILS / PHONE NUMBERS"
+    ],
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587
+}
